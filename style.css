@@ -69,6 +69,7 @@ p {
   color: #fff;
   border: none;
   border-radius: 5px;
+   z-index: 1;
 }
 .next-btn:hover {
   background-color: #333;
